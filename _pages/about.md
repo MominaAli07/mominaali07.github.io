@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Momina Ali - Image Processing | Medical Imaging | Virtual Reality | Computational Biology"
+title: "Momina Ali"
 author_profile: true
 redirect_from: 
   - /about/
