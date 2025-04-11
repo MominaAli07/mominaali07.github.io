@@ -5,7 +5,7 @@ type: "Undergraduate course"
 venue: "Middle Tennessee State University"
 date: 2025-01-01
 location: "Computer Science Department"
-excerpt: "Teaching Assistant for an introductory Python course using UNIX and Python."
+excerpt: "Teaching Assistant for an introductory Python course focusing on python programming skills."
 ---
 
 

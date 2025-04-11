@@ -1,5 +1,5 @@
 ---
-title: "🧑‍🏫 Teaching Assistant CSCI 3037: Computer Language Visual Program"
+title: "🧑‍🏫 Teaching Assistant - CSCI 3037"
 collection: teaching
 type: "Undergraduate course"
 venue: "Middle Tennessee State University"
