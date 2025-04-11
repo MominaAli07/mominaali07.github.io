@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "🧑‍🏫 Teaching Assistant CSCI 3037: Computer Language Visual Program"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "Middle Tennessee State University"
+date: Spring 2025
+location: "Computer Science Department"
+excerpt: "Teaching Assistant for a Visual C# course, focused on OOP design, syntax, and practical programming skills."
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
