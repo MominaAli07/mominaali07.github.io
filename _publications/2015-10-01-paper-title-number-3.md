@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Channel boosting based detection and segmentation for cancer analysis in histopathological images"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: "Human immune system plays a vital role in cancer prevention. Tumor Infiltrating Lymphocytes (TILs) are specialized immune cells that infiltrate tumor region. Studies have shown that the presence of TILs reflect towards cancer prognosis. The amount of TILs in tumor stroma can be counted manually under a microscope by an expert pathologist. This manual task is very laborious and time-consuming, and may face human subjectivity. Therefore, an automated system is required to effectively detect lymphocytes and to overcome the burden on pathologist. Automation of lymphocyte detection is a challenging task, due to its morphological variations, clustered appearance and presence of artifacts. To address these challenges, we have designed a computer aided diagnostic system called Pyramid Vision Transformer Channel Boosted Lymphocyte Detection (PVTCB-Lymph-Det) by exploiting deep CNN architectures based on channel boosting. In this work, we have incorporated the idea of channel boosting to enhance the learning capacity of the proposed model. The proposed network is based on a transformer and Convolutional Block Attention Mechanism (CBAM) with ResNet-50 to perform feature extraction. The proposed technique with Channel Boosting has performed well for lymphocyte detection and has an F-score of 88.92%. Moreover, PVTCB-Lymph-Det can be adapted to detect lymphocytes and may aid pathologists in solving medical diagnostic problems."
+date: 2022-08-20
+venue: '2022 19th International Bhurban Conference on Applied Sciences and Technology (IBCAST)'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9990330'
+citation: 'M. L. Ali, Z. Rauf, A. R. Khan and A. Khan, "Channel boosting based detection and segmentation for cancer analysis in histopathological images," 2022 19th International Bhurban Conference on Applied Sciences and Technology (IBCAST), Islamabad, Pakistan, 2022, pp. 1-6, doi: 10.1109/IBCAST54850.2022.9990330.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Human immune system plays a vital role in cancer prevention. Tumor Infiltrating Lymphocytes (TILs) are specialized immune cells that infiltrate tumor region. Studies have shown that the presence of TILs reflect towards cancer prognosis. The amount of TILs in tumor stroma can be counted manually under a microscope by an expert pathologist. This manual task is very laborious and time-consuming, and may face human subjectivity. Therefore, an automated system is required to effectively detect lymphocytes and to overcome the burden on pathologist. Automation of lymphocyte detection is a challenging task, due to its morphological variations, clustered appearance and presence of artifacts. To address these challenges, we have designed a computer aided diagnostic system called Pyramid Vision Transformer Channel Boosted Lymphocyte Detection (PVTCB-Lymph-Det) by exploiting deep CNN architectures based on channel boosting. In this work, we have incorporated the idea of channel boosting to enhance the learning capacity of the proposed model. The proposed network is based on a transformer and Convolutional Block Attention Mechanism (CBAM) with ResNet-50 to perform feature extraction. The proposed technique with Channel Boosting has performed well for lymphocyte detection and has an F-score of 88.92%. Moreover, PVTCB-Lymph-Det can be adapted to detect lymphocytes and may aid pathologists in solving medical diagnostic problems.
