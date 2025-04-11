@@ -1,20 +1,19 @@
 ---
 permalink: /
-title: "Momina Ali – Computational Biology | Medical Imaging | Virtual Reality"
+title: "Momina Liaqat Ali's Intro"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I’m **Momina Ali**, a computational scientist dedicated to developing intelligent, data-driven solutions that drive innovation in **bioinformatics**, **medical imaging**, and **virtual reality applications**. My work lies at the intersection of computational science and human-centered design, where I strive to address critical challenges in modern healthcare and education through advanced computing.
+Welcome! I’m **Momina L. Ali**, a computational scientist dedicated to developing intelligent, data-driven solutions that drive innovation in **medical imaging**, and **virtual reality applications**. My work lies at the intersection of computational science and human-centered design, where I strive to address critical challenges in modern healthcare and education through advanced computing.
 
 I specialize in harnessing the power of biological data, immersive technologies, and machine learning to explore complex research questions and create practical tools that make a difference. From genomic sequence analysis to diagnostic imaging and virtual training environments, my portfolio spans a diverse range of projects aimed at improving healthcare outcomes and advancing scientific understanding.
 
 A key highlight of my work includes the development of a **virtual reality application** that enables users to interact with digital medical devices using intuitive **hand gestures**, creating more **natural and immersive experiences** for education and simulation. This project reflects my broader vision — to design technologies that feel seamless, responsive, and human-centric.
 
 Currently, my research focuses on:
-- **Bioinformatics workflows** for analyzing high-throughput biological data
 - **AI-enhanced diagnostic models** in medical imaging
 - **Augmented and virtual reality systems** for interactive learning and patient engagement
 - **Multimodal data integration** for precision medicine
