@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Momina Liaqat Ali's Intro"
+title: "Momina Ali - Image Processing | Medical Imaging | Virtual Reality | Computational Biology"
 author_profile: true
 redirect_from: 
   - /about/
