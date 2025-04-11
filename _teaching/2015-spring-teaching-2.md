@@ -7,4 +7,4 @@ date: Spring 2025
 location: "Computer Science Department"
 excerpt: "Teaching Assistant for a Visual C# course, focused on OOP design, syntax, and practical programming skills."
 ---
-======
+
