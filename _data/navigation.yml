@@ -17,8 +17,8 @@ main:
   - title: "Teaching Experience"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: https://medium.com/@ma2mp
