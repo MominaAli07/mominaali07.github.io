@@ -9,7 +9,8 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=FXrC-T4AAAAJ&hl=en
+    #url: https://scholar.google.com/citations?user=FXrC-T4AAAAJ&hl=en
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -26,8 +27,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "CV"
-    url: /cv-json/
+  # - title: "CV"
+  #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
