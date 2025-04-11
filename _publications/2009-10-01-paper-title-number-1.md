@@ -3,7 +3,7 @@ title: "CB-HVT Net: A Channel-Boosted Hybrid Vision Transformer Network for Lymp
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "Developed a hybrid Vision Transformer (CB-HVT) for accurate lymphocyte detection in histopathological images."
+excerpt: "This study presents a novel Channel Boosted Hybrid Vision Transformer (CB-HVT) architecture for detecting lymphocytes in histopathological images. By combining the local feature learning capabilities of CNNs with the global contextual awareness of Vision Transformers, the model effectively addresses challenges such as overlapping boundaries, artifacts, and morphological diversity of lymphocytes. The network incorporates multiple specialized modules, including channel generation, exploitation, and merging components, alongside a region-aware attention mechanism and a detection head. A feature fusion block with attention enhances discriminative learning. The CB-HVT was evaluated on two benchmark datasets (LYSTO and NuClick), achieving F-Scores of 0.88 and 0.82 respectively, and demonstrated robust performance on unseen test sets—highlighting its potential for real-time clinical application in pathology."
 date: 2023-10-19
 venue: "IEEE Access"
 #slidesurl: "http://academicpages.github.io/files/slides1.pdf"
