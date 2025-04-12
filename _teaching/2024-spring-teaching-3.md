@@ -7,7 +7,7 @@ date: 2024-08-20
 location: "Computer Science Department"
 excerpt: "Teaching Assistant for a Java programming course focusing on syntax, UML, GUI design, and Studio IDE."
 ---
-### 🧑‍🏫 Teaching Assistant  
+
 **CSCI 3033: Computer Languages – Java (3 Credit Hours)**  
 *Middle Tennessee State University — Fall 2024*
 
