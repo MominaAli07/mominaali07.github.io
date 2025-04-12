@@ -11,3 +11,5 @@ citation: 'Ali, M. L., & Zhang, Z. (2024, June). Natural human-computer interfac
 ---
 
 This research focuses on advancing hand tracking and gesture recognition technologies for more intuitive human-computer interaction, particularly in virtual and augmented reality environments. Leveraging YOLO-based models, the study aims to improve user immersion through real-time gesture detection. It explores state-of-the-art techniques and proposes new algorithms to enhance accuracy and responsiveness. The developed system will be integrated into a virtual electrical power lab linked with a learning management system. Effectiveness will be assessed using pre- and post-class surveys. The project ultimately contributes to next-generation HCI by merging advanced computer vision with immersive learning environments.
+![Gesture Detection Architecture](ThreeStepProcess.png)
+*Figure 1: System architecture for YOLO-based gesture recognition.*
