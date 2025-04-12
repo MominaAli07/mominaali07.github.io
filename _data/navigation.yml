@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: https://medium.com/@ma2mp
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: _pages/files/myCV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
