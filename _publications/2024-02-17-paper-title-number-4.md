@@ -2,7 +2,7 @@
 title: "Natural Human-Computer Interface Based on Gesture Recognition with YOLO to Enhance Virtual Lab Users’ Immersive Feeling"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-5
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: "This research focuses on advancing hand tracking and gesture recognition technologies for more intuitive human-computer interaction, particularly in virtual and augmented reality environments. Leveraging YOLO-based models, the study aims to improve user immersion through real-time gesture detection. It explores state-of-the-art techniques and proposes new algorithms to enhance accuracy and responsiveness. The developed system will be integrated into a virtual electrical power lab linked with a learning management system. Effectiveness will be assessed using pre- and post-class surveys. The project ultimately contributes to next-generation HCI by merging advanced computer vision with immersive learning environments."
 date: 2024-06-23
 venue: '2024 ASEE Annual Conference and Exposition Portland, Oregon, USA'
