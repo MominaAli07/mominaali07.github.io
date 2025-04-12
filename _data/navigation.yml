@@ -24,7 +24,7 @@ main:
     url: https://medium.com/@ma2mp
     
   - title: "CV"
-    url: _pages/files/myCV.pdf
+    url: /files/myCV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
