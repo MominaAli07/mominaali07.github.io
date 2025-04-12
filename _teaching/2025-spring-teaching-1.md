@@ -36,9 +36,5 @@ Upon successful completion of this course, students will be able to:
 - Use UNIX-based tools for compiling and debugging code.  
 - Predict and trace state changes in a running program.
 
-**Class Format:**  
-- **Lecture:** TR 9:40–11:05 AM (Academic Classroom Building 110)  
-- **Lab:** TR 11:15–12:15 PM (LRC 201)
-
 **Prerequisites:**  
 A sufficient background in algebra and trigonometry (e.g., MATH 1730)
