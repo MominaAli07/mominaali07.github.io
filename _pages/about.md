@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Momina Ali"
+title: "Momina Liaqat Ali"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ My work lies at the intersection of computational methods and human-centered des
 I specialize in applying immersive technologies and machine learning to explore complex research questions and create practical tools that make a difference.  
 From diagnostic imaging to virtual training environments, my portfolio highlights projects aimed at improving healthcare outcomes and enhancing user experiences in medical and educational settings.
 
-A key highlight of my work includes the development of a **virtual reality application** that enables users to interact with digital medical devices using intuitive **hand gestures**, creating more **natural and immersive experiences** for education and simulation.  
+A key highlight of my work includes the development of a **virtual reality application** that enables users to interact with digital lab devices using intuitive **hand gestures**, creating more **natural and immersive experiences** for education and simulation.  
 This project reflects my broader vision — to design technologies that feel seamless, responsive, and human-centric.
 
 ## Current Research Interests
