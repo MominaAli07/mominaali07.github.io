@@ -13,7 +13,7 @@ title                    : "Momina's Homepage"
 title_separator          : "-"
 name                     : &name "Momina Liaqat Ali"
 description              : &description "personal description"
-url                      : https://mominaliaqatali.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mominaali07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mominaliaqatali.github.io"
 
