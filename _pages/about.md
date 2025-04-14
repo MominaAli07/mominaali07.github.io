@@ -10,7 +10,7 @@ redirect_from:
 # About Me
 
 Welcome! I'm **Momina L. Ali**, a *Ph.D. student in computational science* with a focus on developing intelligent, data-driven solutions that advance innovation in **medical imaging** and **virtual reality applications**.  
-<!-- My work lies at the intersection of computational methods and human-centered design, where I strive to tackle critical challenges in modern healthcare and education through advanced computing techniques.
+My work lies at the intersection of computational methods and human-centered design, where I strive to tackle critical challenges in modern healthcare and education through advanced computing techniques.
 
 I specialize in applying immersive technologies and machine learning to explore complex research questions and create practical tools that make a difference.  
 From diagnostic imaging to virtual training environments, my portfolio highlights projects aimed at improving healthcare outcomes and enhancing user experiences in medical and educational settings.
@@ -31,6 +31,6 @@ I take pride in producing work that is technically sound, thoughtfully designed,
 
 I’m deeply passionate about **collaboration**, **open science**, and **mentorship**.  
 I actively seek opportunities to work with fellow researchers, healthcare professionals, and innovators to build solutions that matter.  
-Whether it's co-authoring a paper, co-developing a prototype, or brainstorming a new interdisciplinary project — I welcome meaningful engagement. -->
+Whether it's co-authoring a paper, co-developing a prototype, or brainstorming a new interdisciplinary project — I welcome meaningful engagement. 
 
 ---
